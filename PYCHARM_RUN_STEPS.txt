@@ -1,0 +1,20 @@
+OptiCrop PyCharm Run Steps
+
+1. Open this folder in PyCharm:
+   C:\Users\lokim\Documents\Codex\2026-07-09\opticrop-is-a-machine-learning-based
+
+2. Select your existing Python interpreter:
+   File > Settings > Project > Python Interpreter
+
+3. Use the Run dropdown at the top-right of PyCharm:
+   - Train OptiCrop Model
+   - Run OptiCrop Web App
+
+4. Run "Train OptiCrop Model" first.
+
+5. Then run "Run OptiCrop Web App".
+
+6. Open the link shown in PyCharm's Run output, usually:
+   http://127.0.0.1:5000
+
+PowerShell says "Python was not found" because Python is installed inside PyCharm's interpreter, not added to the Windows PATH.

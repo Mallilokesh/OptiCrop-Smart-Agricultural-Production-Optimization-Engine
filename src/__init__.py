@@ -1,0 +1,1 @@
+"""OptiCrop application package."""
